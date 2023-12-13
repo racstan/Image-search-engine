@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/racstan/Image-search-engine/issues"
   },
-  "homepage": "https://github.com/racstan/Image-search-engine#readme"
+  "homepage": "https://github.com/racstan/Image-search-engine#readme",
+  "dependencies": {
+    "weaviate-ts-client": "^2.0.0"
+  }
 }
